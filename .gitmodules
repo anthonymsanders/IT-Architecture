@@ -1,0 +1,6 @@
+[submodule "Identity-Architecture"]
+	path = architecture-identity
+	url = https://github.com/anthonymsanders/architecture-identity.git
+[submodule "Security-Architecture"]
+	path = Architecture-Security
+	url = https://github.com/anthonymsanders/Architecture-Security.git
